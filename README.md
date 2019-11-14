@@ -22,4 +22,4 @@ Install pygame
 -`sudo pip install pygame`
 
 Check it out .....
-Suggestions or Pull requests are encouraged.
+Suggestions or Pull requests are always encouraged.
